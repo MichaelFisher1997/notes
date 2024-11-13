@@ -1,0 +1,22 @@
+ddev:
+wrappers around multidev list and delete
+
+multidevs:
+regular site to find old branches and how old it is and who made it (or last pushed to it) then notify them.
+would neeed to get multidevs list and then find the branches related to the.
+
+branch protection:
+look at adding it for build fail- mike, key, mat to be able to over ride.
+
+Client obligations:
+solving the issue of them responding late to us on things like site updates.
+
+deployment notifications:
+slack channel, all deployments to all mulitdevs to go to this channel.
+
+
+
+Side notes for us devops:
+gonna need a lot of work on updating deployment scripts.
+Can we agree one changes now, so we can just make one big update to them all so we are not going around in circles?
+Lets get branch protection on important sites 1st, as we don't have a corporate account we have to set it up manually on each site?
